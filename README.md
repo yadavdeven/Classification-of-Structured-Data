@@ -1,4 +1,4 @@
-## Classification and Regression tasks performed on Structured Data using Scikit Learn Library and Deep Learning:
+### Classification and Regression tasks performed on Structured Data using Scikit Learn Library and Deep Learning:
 
 
 

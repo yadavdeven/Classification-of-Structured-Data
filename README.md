@@ -1,7 +1,11 @@
 # Classification-of-Structured-Data:
 
-Classification and Regression tasks performed on Structured Data using Scikit Learn Library and Deep Learning:
+## * Classification and Regression tasks performed on Structured Data using Scikit Learn Library and Deep Learning:
 
+
+
+
+# DATASET link for all Projects:
 
 |Sr.No| Project_Name                      |  dataset                                                      |
 |-----|-----------------------------------|---------------------------------------------------------------|

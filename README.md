@@ -5,7 +5,7 @@
 
 ## DATASET link for all Projects:
 
-|Sr.No| Project_Name                      |  dataset                                                      |
+|Sr.No| Project_Name                      |  dataset_link                                                      |
 |-----|-----------------------------------|---------------------------------------------------------------|
-|1.   | Diabetes Prediction               | https://raw.githubusercontent.com/yadavdeven/Regression_and_Classification_projects/main/data_for_all_projects/diabetes.csv |
+|1.   | Diabetes Prediction               | https://drive.google.com/file/d/1m1BUcUlxq-Cul2fJcWadSmTr7QjCkiIn/view?usp=sharing |
  
